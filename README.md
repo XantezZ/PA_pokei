@@ -1,2 +1,3 @@
 # PA_pokei
- Admin Panel for PokeI 
+
+Sample admin panel made with bootstrap 
